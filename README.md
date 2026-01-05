@@ -66,12 +66,3 @@ I’m open to:
 
 📫 **Get in touch:**  
 🌐 https://www.vitorsachini.me
-
----
-
-## 📊 GitHub Philosophy
-
-```text
-Build useful things.
-Ship often.
-Improve continuously.
