@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://www.vitorsachini.me">🌐 Website</a> •
-  <a href="https://github.com/vsachini">💻 GitHub</a> •
-  <a href="https://www.linkedin.com">🔗 LinkedIn</a>
+  <a href="https://github.vitorsachini.me">💻 GitHub</a> •
+  <a href="https://linkedin.vitorsachini.me">🔗 LinkedIn</a>
 </p>
 
 ---
